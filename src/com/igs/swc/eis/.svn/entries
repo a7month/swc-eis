@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="136"
+   name=""
+   committed-date="2013-11-01T08:21:52.212717Z"
+   url="svn://10.45.7.40:30000/swc-eis/trunk/src/com/igs/swc/eis"
+   last-author="mikewang"
+   kind="dir"
+   uuid="c18ddf49-f98f-4173-9529-5273d87822aa"
+   repos="svn://10.45.7.40:30000"
+   revision="138"/>
+<entry
+   committed-rev="134"
+   name="MsgKey.java"
+   text-time="2013-11-01T07:49:37.421875Z"
+   committed-date="2013-11-01T06:21:28.956032Z"
+   checksum="7e24aefbf72903bf12a83499cfe19742"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T07:49:37.359375Z"/>
+<entry
+   committed-rev="129"
+   name="SwcRuntimeException.java"
+   text-time="2013-11-01T07:49:37.421875Z"
+   committed-date="2013-11-01T03:07:18.183102Z"
+   checksum="b9b41fb7b96f6ce71054a513a35a96eb"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T07:49:37.359375Z"/>
+<entry
+   name="ops"
+   kind="dir"/>
+<entry
+   committed-rev="129"
+   name="SwcNotExistException.java"
+   text-time="2013-11-01T07:49:37.421875Z"
+   committed-date="2013-11-01T03:07:18.183102Z"
+   checksum="1b023f5df5659f0e0936505ac757a61d"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T07:49:37.406250Z"/>
+<entry
+   committed-rev="134"
+   name="HwConstants.java"
+   text-time="2013-11-01T07:49:37.421875Z"
+   committed-date="2013-11-01T06:21:28.956032Z"
+   checksum="3c8b443bf3bd12c45ae24918e0f9782d"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T07:49:37.406250Z"/>
+<entry
+   committed-rev="129"
+   name="SwcException.java"
+   text-time="2013-11-01T07:49:37.421875Z"
+   committed-date="2013-11-01T03:07:18.183102Z"
+   checksum="66cd774c7295a4486649a2d90be0d4df"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T07:49:37.421875Z"/>
+<entry
+   committed-rev="129"
+   name="SwcOfflineException.java"
+   text-time="2013-11-01T07:49:37.421875Z"
+   committed-date="2013-11-01T03:07:18.183102Z"
+   checksum="3d8807d9eb7b06e7975f585b1d97cb37"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T07:49:37.421875Z"/>
+</wc-entries>

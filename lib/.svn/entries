@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="129"
+   name=""
+   committed-date="2013-11-01T03:07:18.183102Z"
+   url="svn://10.45.7.40:30000/swc-eis/trunk/lib"
+   last-author="mikewang"
+   kind="dir"
+   uuid="c18ddf49-f98f-4173-9529-5273d87822aa"
+   repos="svn://10.45.7.40:30000"
+   revision="138"/>
+<entry
+   committed-rev="123"
+   name="geronimo-j2ee-connector_1.6_spec-1.0.jar"
+   text-time="2013-11-01T07:49:37.281250Z"
+   committed-date="2013-11-01T01:11:28.597571Z"
+   checksum="f4add9eb4ff4b8c4d7591852e6d04e5f"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T07:49:36.890625Z"/>
+<entry
+   committed-rev="129"
+   name="jamod-1.2-SNAPSHOT.jar"
+   text-time="2013-11-01T07:49:37.296875Z"
+   committed-date="2013-11-01T03:07:18.183102Z"
+   checksum="833b75f5b3c2ceb7e937e2ebcb6663e8"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T07:49:36.906250Z"/>
+<entry
+   committed-rev="123"
+   name="spring-tx-4.0.0.M2.jar"
+   text-time="2013-11-01T07:49:37.296875Z"
+   committed-date="2013-11-01T01:11:28.597571Z"
+   checksum="dc9c6aed5883f946e9fca5652a74785b"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T07:49:36.937500Z"/>
+<entry
+   committed-rev="123"
+   name="spring-data-redis-1.1.0.RC1.jar"
+   text-time="2013-11-01T07:49:37.312500Z"
+   committed-date="2013-11-01T01:11:28.597571Z"
+   checksum="a54207c2e784fb4c5d64cfc068c5ae9f"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T07:49:36.984375Z"/>
+<entry
+   committed-rev="123"
+   name="spring-context-4.0.0.M2.jar"
+   text-time="2013-11-01T07:49:37.312500Z"
+   committed-date="2013-11-01T01:11:28.597571Z"
+   checksum="123ad5341c2c4bf4c635671c15914cad"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T07:49:37.078125Z"/>
+<entry
+   committed-rev="123"
+   name="spring-beans-4.0.0.M2.jar"
+   text-time="2013-11-01T07:49:37.328125Z"
+   committed-date="2013-11-01T01:11:28.597571Z"
+   checksum="488bc2c8385040ba8a8597cd0c15e6a7"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T07:49:37.140625Z"/>
+<entry
+   committed-rev="123"
+   name="spring-core-4.0.0.M2.jar"
+   text-time="2013-11-01T07:49:37.328125Z"
+   committed-date="2013-11-01T01:11:28.597571Z"
+   checksum="2952adc68b3b84505a46b5467832fd92"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T07:49:37.218750Z"/>
+</wc-entries>
